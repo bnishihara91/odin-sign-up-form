@@ -103,3 +103,13 @@ input:focus {
     border: 2px solid var(--color);
 }
 
+button {
+    background-color: rgba(0, 0, 0, 0);
+    color: var(--color);
+    font-weight: 700;
+    font-size: 1.2em;
+    border: 2px solid var(--color);
+    border-radius: 5px;
+    padding: 10px 4px;
+    margin: 40px 0;
+}
