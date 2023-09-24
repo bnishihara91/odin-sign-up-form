@@ -119,3 +119,7 @@ button:hover {
     color: black;
 }
 
+.log-in {
+    display: flex;
+    gap: 5px;
+}
