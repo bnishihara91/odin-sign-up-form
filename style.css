@@ -2,3 +2,11 @@
     --color: #e6007e;
     --text: rgb(185, 185, 185)
 }
+
+* {
+    margin: 0px;
+    padding: 0px;
+    box-sizing: border-box;
+    font-family: 'Poppins', sans-serif;
+    color: var(--txt);
+}
