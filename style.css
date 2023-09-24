@@ -60,3 +60,10 @@ h1 {
 .left {
     padding-left: 3vw;
 }
+
+.left.text {
+    font-weight: 500;
+    width: 90%;
+    font-siz: 1.2rem;
+}
+
