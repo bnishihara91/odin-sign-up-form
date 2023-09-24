@@ -10,3 +10,8 @@
     font-family: 'Poppins', sans-serif;
     color: var(--txt);
 }
+
+.content {
+    width: 100vw;
+    height: 100vh;
+}
