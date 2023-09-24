@@ -86,3 +86,8 @@ h1 {
     opacity: 50%;
 }
 
+.form-title {
+    width: 100%;
+    font-size: 1.2rem;
+    font-weight: 500;
+}
